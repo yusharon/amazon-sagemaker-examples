@@ -1,0 +1,20 @@
+accelerate>=0.12.0
+datasets>=2.19.1
+einops
+evaluate
+expecttest
+<<<<<<< HEAD:training/distributed_training/pytorch/model_parallel_v2/shared-scripts/requirements.txt
+flash-attn>=2.3.6,<2.4
+=======
+>>>>>>> origin:      build_and_train_models/sm-distributed_model_parallel_v2/shared-scripts/requirements.txt
+h5py
+humanize
+hypothesis
+ninja
+numpy
+packaging
+protobuf
+scikit-learn
+sentencepiece!=0.1.92
+tensorboard
+transformers>=4.40.1
